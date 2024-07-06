@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T11:29:39.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="MSQugb5QU7zIb7PvuOje" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-06T13:15:14.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cCUxhiGlMTkvibpQyw4F" version="24.6.4" type="github">
   <diagram name="Page-1" id="SNu6Hwqx18H7hvCri_gc">
-    <mxGraphModel>
+    <mxGraphModel dx="1430" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-1" value="Fission reactor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.02;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rBHgkjRE-wHSFufGKVvx-3" target="rBHgkjRE-wHSFufGKVvx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="120" as="sourcePoint" />
+            <mxPoint x="440" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-3" value="Water OU sodium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-4" value="Fissile fuel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="225.97999999999988" as="sourcePoint" />
+            <mxPoint x="320" y="139.99999999999986" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="rBHgkjRE-wHSFufGKVvx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="670" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-7" value="Nuclear waste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-8" value="plutonium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.509;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rBHgkjRE-wHSFufGKVvx-7" target="rBHgkjRE-wHSFufGKVvx-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-10" value="Spent nuclear waster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rBHgkjRE-wHSFufGKVvx-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="130" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rBHgkjRE-wHSFufGKVvx-10" target="rBHgkjRE-wHSFufGKVvx-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-14" value="Stoquer dans barrel + pressurized pipes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rBHgkjRE-wHSFufGKVvx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBHgkjRE-wHSFufGKVvx-17" value="Steam OU superheated sodium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
